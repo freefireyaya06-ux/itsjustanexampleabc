@@ -1,0 +1,3 @@
+rootProject.name = 'striker-run'
+include 'core'
+include 'android'
